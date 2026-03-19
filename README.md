@@ -1,4 +1,4 @@
-<img width="984" height="784" alt="image" src="https://github.com/user-attachments/assets/193efad6-23a8-4234-b6dc-bd14995c2c52" /># Laboratorio#2 Estadística y Probabilidad con Python
+# Laboratorio#2 Estadística y Probabilidad con Python
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
