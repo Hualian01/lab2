@@ -18,14 +18,14 @@ Se utilizó el conjunto de datos de vinos de Scikit-Learn para realizar un anál
 - Visualizar distribuciones mediante diagramas de caja.
 - Comprender la estructura del conjunto de datos y las relaciones entre variables.
 
-## Conceptos clave aplicados
+## Conceptos aplicados
 - Estadística descriptiva (media, mediana, dispersión).
 - Técnicas de exploración de datos.
 - Análisis de distribución.
 - Detección de valores atípicos mediante diagramas de caja.
 - Comprensión de la dimensionalidad de los conjuntos de datos.
 
-## El análisis incluye
+## El laboratorio demuestra
 - Carga del conjunto de datos Wine desde Scikit-Learn.
 - Conversión de la estructura del conjunto de datos a un DataFrame de Pandas.
 - Extracción de resúmenes estadísticos de características seleccionadas.
